@@ -1,0 +1,6 @@
+.idea/
+__pycache__/
+!model/.gitkeep
+model/
+!recordings/.gitkeep
+recordings/
